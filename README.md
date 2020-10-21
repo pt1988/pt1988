@@ -13,5 +13,5 @@
 - etc.
 
 #### Blog
-- [elk-lab](../elk-lab)
-- [elk-lab1](../elk-lab1)
+- [elk-lab](https://pt1988.github.io/elk-lab)
+- [elk-lab1](https://pt1988.github.io/elk-lab1)
