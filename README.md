@@ -2,7 +2,7 @@
 #### Bio
 - I'm currently working as co-founder and engineer at Jitech Company Limited.
 - I'm gratduate master deegree of computer engineering from Kasetsart University, Thailand.
-- I was working as network engineer for Kasetsart University when I was graduate student.
+- I was working as network engineer for Kasetsart University while I was graduate student.
 
 #### Interesting
 - Computer Security
