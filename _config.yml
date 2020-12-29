@@ -1,4 +1,4 @@
 markdown: kramdown
 name: log-manager document
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
