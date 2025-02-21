@@ -1,11 +1,9 @@
 ### Hi! I'm Peerapong Thongpubet
 #### Bio
-- I'm currently working as co-founder and engineer at Jitech Company Limited.
-- I'm gratduate master deegree of computer engineering from Kasetsart University, Thailand.
-- I was working as network engineer for Kasetsart University while I was graduate student.
+I'm Peerapong Thongpubet, a cybersecurity engineer with a Master's degree in Computer Engineering and extensive experience in designing, implementing, and managing network security solutions.  My background includes working with large-scale network infrastructures and developing security solutions for clients using technologies like SIEM, NAC, Firewall, and Endpoint. I'm passionate about cybersecurity and dedicated to ensuring robust and secure systems.
 
 #### Interesting
-- Computer Security
+- Cyber Security
 - Monitoring
 - Elasticsearch
 - Log processing/stream processing 
