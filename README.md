@@ -1,9 +1,10 @@
 ### Hi! I'm Peerapong Thongpubet
 #### Bio
-I'm Peerapong Thongpubet, a cybersecurity engineer with a Master's degree in Computer Engineering and extensive experience in designing, implementing, and managing network security solutions.  My background includes working with large-scale network infrastructures and developing security solutions for clients using technologies like SIEM, NAC, Firewall, and Endpoint. I'm passionate about cybersecurity and dedicated to ensuring robust and secure systems.
+I'm Peerapong Thongpubet, a cybersecurity specialist with a Master's in Computer Engineering and a CISSP certification. I have extensive experience in designing, implementing, and managing network security solutions. My expertise includes working with large-scale network infrastructures and developing security strategies using technologies like SIEM, NAC, Firewalls, and Endpoints. With a deep passion for cybersecurity, I am dedicated to ensuring the robustness and security of systems.
 
 #### Interesting
 - Cyber Security
+- Network Threat Detection
 - Monitoring
 - Elasticsearch
 - Log processing/stream processing 
